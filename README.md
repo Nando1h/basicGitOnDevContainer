@@ -228,8 +228,8 @@ El objetivo es que el repositorio conserve el código fuente `.java`, el README 
 
 Antes de entregar, verifica todo lo siguiente:
 
-- [ ] `git status` muestra solamente cambios intencionales o está limpio.
-- [ ] El historial contiene commits descriptivos.
-- [ ] Existe una rama integrada mediante `merge`.
-- [ ] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
-- [ ] El README conserva todas las casillas marcadas como evidencia de la práctica.
+- [✅] `git status` muestra solamente cambios intencionales o está limpio.
+- [✅] El historial contiene commits descriptivos.
+- [✅] Existe una rama integrada mediante `merge`.
+- [✅] El repositorio conserva los archivos `.java`, pero no archivos `.class`, `.bin` ni `.javac` versionados.
+- [✅] El README conserva todas las casillas marcadas como evidencia de la práctica.
